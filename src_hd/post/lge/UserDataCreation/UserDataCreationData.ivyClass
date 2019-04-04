@@ -1,0 +1,4 @@
+UserDataCreationData #class
+post.lge.UserDataCreation #namespace
+registeredUser post.lge.Data #field
+registeredUser PERSISTENT #fieldModifier

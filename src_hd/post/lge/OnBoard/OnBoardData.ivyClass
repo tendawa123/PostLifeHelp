@@ -1,0 +1,6 @@
+OnBoardData #class
+post.lge.OnBoard #namespace
+Candidate post.lge.Candidate #field
+Candidate PERSISTENT #fieldModifier
+Message String #field
+Message PERSISTENT #fieldModifier

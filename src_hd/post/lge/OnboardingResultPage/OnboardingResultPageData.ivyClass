@@ -1,0 +1,8 @@
+OnboardingResultPageData #class
+post.lge.OnboardingResultPage #namespace
+Status String #field
+Status PERSISTENT #fieldModifier
+Candidate post.lge.Candidate #field
+Candidate PERSISTENT #fieldModifier
+Message String #field
+Message PERSISTENT #fieldModifier

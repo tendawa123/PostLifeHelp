@@ -1,0 +1,15 @@
+Candidate #class
+true #isEntity
+post.lge #namespace
+ICANDIDATE #dbTableName
+id Integer #field
+id Identifier #fieldComment
+id PERSISTENT #fieldModifier
+id ID #fieldModifier
+id GENERATED #fieldModifier
+Name String #field
+Name PERSISTENT #fieldModifier
+Skill String #field
+Skill PERSISTENT #fieldModifier
+DOB Date #field
+DOB PERSISTENT #fieldModifier

@@ -1,0 +1,21 @@
+RegisteredUser #class
+true #isEntity
+post.life.help #namespace
+REGISTEREDUSER #dbTableName
+id Integer #field
+id Identifier #fieldComment
+id PERSISTENT #fieldModifier
+id ID #fieldModifier
+id GENERATED #fieldModifier
+Name String #field
+Name PERSISTENT #fieldModifier
+Email String #field
+Email PERSISTENT #fieldModifier
+Contact String #field
+Contact PERSISTENT #fieldModifier
+DOB Date #field
+DOB PERSISTENT #fieldModifier
+PAN String #field
+PAN PERSISTENT #fieldModifier
+Adhaar String #field
+Adhaar PERSISTENT #fieldModifier

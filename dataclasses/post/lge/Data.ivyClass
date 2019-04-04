@@ -1,0 +1,10 @@
+Data #class
+post.lge #namespace
+User post.life.help.RegisteredUser #field
+User PERSISTENT #fieldModifier
+Status String #field
+Status PERSISTENT #fieldModifier
+Candidate post.lge.Candidate #field
+Candidate PERSISTENT #fieldModifier
+Message String #field
+Message PERSISTENT #fieldModifier
